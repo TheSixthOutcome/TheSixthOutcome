@@ -1,6 +1,9 @@
 # About Me 
 Greetings, my name is Ramon Ortiz and welcome to my GitHub profile!
 
+## What Am I Doing Currently?
+
+
 <!--
 **TheSixthOutcome/TheSixthOutcome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
